@@ -38,6 +38,7 @@ html,body{height:100%}
   font-weight: bold;
   font-size: 2em;
   letter-spacing: 20px;
+  text-align: center;
 }
 
 .rainbow {
@@ -46,4 +47,9 @@ html,body{height:100%}
   color:transparent;
   -webkit-background-clip: text;
   background-clip: text;
+}
+
+
+@media only screen and (max-width: 768px) {
+  
 }
